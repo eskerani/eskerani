@@ -7,6 +7,9 @@ Welcome to my profile. My name is Emery Kerani - here are some fast facts about 
 * I completed my undergraduate studies in Sociology and Data Science
 * I play rugby and watch *a lot* of sports in my free time
 
+  ![20250726_203823](https://github.com/user-attachments/assets/49e37e86-6e64-41fa-9705-2b118f8be08b)
+This is me staring directly into the sunset in Forks, WA. 
+
 To learn more about some of the projects I've worked on, you can scroll down or jump to what you want to explore:
 
 * [Environmental Health Hazards and Threats](#environment-health-hazards-and-threats-ehhts)
