@@ -13,12 +13,15 @@ Welcome to my profile. My name is Emery Kerani - here are some fast facts about 
 
 This is me staring directly into the sunset in Forks, WA. 
 
+***
 
 To learn more about some of the projects I've worked on, you can scroll down or jump to what you want to explore:
 
 * [Environmental Health Hazards and Threats](#environment-health-hazards-and-threats-ehhts)
-* [Racial differences in FIFA Stats](#racial-differences-in-fifa-stats)
+* [Racial differences in *FIFA* Stats](#racial-differences-in-fifa-stats)
 * [Fall Data Challenge 2024](#fall-data-challenge-2024)
+
+***
 
 ## Environmental Health Hazards and Threats (EHHTs)
 
@@ -30,11 +33,15 @@ Over the summer of 2024 I worked alongside a team of student and faculty researc
 
 The past EHHTs that had the highest general impact (encompassing overall disruptions to daily life) on the community were the 2021 winter storm and a period of poor air quality caused by wildfire smoke in 2020. These events, along with the 2021 heat wave, also impacted a much larger swath of the community than localized events such as wildfires. Health impacts of these events were generally less clear, but the 2020 wildfire smoke episode was cited as having a significant impact by the largest proportion of respondents.
 
+***
+
 <img width="1436" height="847" alt="image" src="https://github.com/user-attachments/assets/998acd98-6fd5-4bf5-b753-c79c1c11a355" />
 
 Community members were also asked about their concern for future events. These results mirror what we found about impact: respondents were most concerned about wildfire smoke and air quality (72% and 65%, respectively, of respondents chose a 4 or 5 on a Likert scale for these events). Over half of respondents also indicated that they were very concerned about weather-related power outages (58%), severe winter storms (60%), long and hot summers (59%), heatwaves (55%), and wildfires (55%). Events that were of less concern included poor water quality, high levels of pollen, drought, vector-borne diseases, and flooding, indicating that more community education is needed surrounding these events given that they are only going to get worse in the future.
 
 When asked to provide information about a specific event, both the 2020 wildfire smoke event and 2021 winter storm received over 150 responses, demonstrating just how serious these events were for those who experienced them.
+
+***
 
 <img width="944" height="583" alt="image" src="https://github.com/user-attachments/assets/4c304947-d7d9-478c-958a-e7accb67c09e" />
 
@@ -42,8 +49,21 @@ Included in the event-specific section were two questions asking respondents to 
 
 If you would like to go even more in-depth or look at the findings for individual events, the final report from this project can be found [here](https://docs.google.com/document/d/1hxCkrpYy_8Cn3iKEdeXQWzPdU-dWD5UZ/edit?tab=t.0)!
 
-## Racial Differences in FIFA Stats
+## Racial Differences in *FIFA* Stats
 
+During the Spring 2025 semester I studied abroad in the UK! While there, I took a class on football (soccer) and society. For one of my assignments for that class, I looked into how football/soccer players' stats differ in *FIFA* based on race.
+
+***
+
+<img width="1342" height="740" alt="image" src="https://github.com/user-attachments/assets/d7cd9bba-21ad-43e4-ad83-316b9d0ae9e5" />
+
+This first graph is based on data gathered by [Campbell & Maloney](https://doi.org/10.1080/14660970.2022.2109805), who analyzed the skill distributions of *FIFA 20*'s top 100-ranked players. I plotted the average difference they found in each skill between Black and white players; this shows that Black players uniformly outperformed white players in defending and physicality - two overall skill groups that are primarily based on physical prowess - as well as every skill which was individually categorized as "physical" type. However, in every category except defending, white players' technical skills were rated more highly than Black players'. 
+
+***
+
+<img width="1027" height="566" alt="image" src="https://github.com/user-attachments/assets/4a2b5ca2-d2be-4879-bb06-af340f9ca93b" />
+
+I also plotted data gathered by [Anderson](https://doi.org/10.1177/21674795231190398), who took a slightly different approach by categorizing players in *FIFA 23* along a continuum of light, medium, or dark skin tone. 
 
 ## Fall Data Challenge 2024
 
