@@ -36,7 +36,7 @@ Community members were also asked about their concern for future events. These r
 
 When asked to provide information about a specific event, both the 2020 wildfire smoke event and 2021 winter storm received over 150 responses, demonstrating just how serious these events were for those who experienced them.
 
-<img width="599" height="364" alt="image" src="https://github.com/user-attachments/assets/5395afc8-f8a6-40c1-b654-244f0b15bc35" />
+<img width="944" height="583" alt="image" src="https://github.com/user-attachments/assets/4c304947-d7d9-478c-958a-e7accb67c09e" />
 
 Included in the event-specific section were two questions asking respondents to rate the helpfulness and how difficult it was to find information released about a given event. We found that the difficulty and helpfulness ratings were generally correlated across events, suggesting that information that is more readily available may also be easier to understand (or vice versa). Certain events were harder to find information about than others, including the 2018 Detroit Lake algal bloom, 2021 wildfires, and 2021 winter storm; however relatively few respondents indicated that information for any event was actively difficult to locate.
 
