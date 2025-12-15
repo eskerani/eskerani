@@ -63,7 +63,7 @@ This first graph is based on data gathered by [Campbell & Maloney](https://doi.o
 
 <img width="1027" height="566" alt="image" src="https://github.com/user-attachments/assets/4a2b5ca2-d2be-4879-bb06-af340f9ca93b" />
 
-I also plotted data gathered by [Anderson](https://doi.org/10.1177/21674795231190398), who took a slightly different approach by categorizing players in *FIFA 23* along a continuum of light, medium, or dark skin tone. 
+I also plotted data gathered by [Anderson](https://doi.org/10.1177/21674795231190398), who took a slightly different approach by categorizing players in *FIFA 23* along a continuum of light, medium, or dark skin tone. This complicates the binary representations of the original study, which did not leave room for the effects of colorism or stereotyping about other races. By using a continuum, Anderson revealed that medium-skinned players actually performed *better* on average than white athletes in the mental skills category, while dark-skinned athletes were rated significantly worse than both light- and medium-skinned players; however, both medium- and dark-skinned players performed better than light-skinned players in all physical skill categories, with dark-skinned players being rated the highest. These results suggest that proximity to whiteness plays a significant role in how athletes' play is characterized.
 
 ## Fall Data Challenge 2024
 
