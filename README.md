@@ -67,6 +67,30 @@ I also plotted data gathered by [Anderson](https://doi.org/10.1177/2167479523119
 
 ## Fall Data Challenge 2024
 
+In 2024 I worked with a team of two other students to compete in the Fall Data Challenge, which tasked teams with analyzing police call data. We chose to focus on arson-related calls from Portland and Seattle in 2023.
+
+***
+
+<img width="1124" height="640" alt="image" src="https://github.com/user-attachments/assets/50352cbe-d01e-4873-aad5-e961703dcdb9" />
+
+Our initial finding was that Seattle had had significantly more arson calls than Portland, even when adjusted for population using 2020 census data. This was somewhat surprising, as the cities are usually considered pretty comparable to each other. We wondered whether the cities would have any other major differences or similarities in reporting patterns...
+
+***
+
+<img width="1112" height="634" alt="image" src="https://github.com/user-attachments/assets/d807a36c-0916-45de-b061-b1522224fbe6" />
+
+...So we next looked into the distribution of arson calls across the months of 2023. Interestingly, though the initial pattern certainly holds - Seattle *always* had more calls in any given month than Portland - the cities followed very similar call patterns across time. In both cities, calls fell from the beginning of the year until Feb/March, rose until April/May, fell again in June, peaked in July, then fell once again until a smaller uptick in November. This suggests that similar factors (likely weather-related) may have influenced the number of calls made in a given month.
+
+***
+
+<img width="1470" height="614" alt="image" src="https://github.com/user-attachments/assets/7ca0e548-3a89-435d-90e9-bf85e14b25bb" />
+
+Finally, we investigated the spatial distribution of arson calls. What's fascinating here is that while both cities appeared to have clusters of calls near their downtown areas, Seattle also has a cluster that extends southward from its downtown along MLK Jr. way, which is a highway between two neighborhoods. Both of these spatial groupings suggest that industrial/commercialized areas may be more likely to be targeted by arson.
+
+***
+
+Of course, there are several caveats to these data - calls made don't necessarily represent actual numbers of arsons, we had no way of tracking whether the same individual was committing multiple arsons, calls may have simply been about fires and were mislabelled, etc. With all of that being said, we still had a lot of fun and gained some insight into arson patterns in these two cities! Our major recommendation was that both cities figure out what's going on in July to cause such a massive peak, and find some way to prevent whatever it is. 
+
 <!--
 **eskerani/eskerani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
