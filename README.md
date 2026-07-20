@@ -3,7 +3,7 @@
 Welcome to my profile. My name is Emery Kerani - here are some fast facts about me!
 
 * I use he/they pronouns
-* I'm fluent in both R and Python
+* I'm fluent in both R, Python, and SQL
 * I'm currently a Master's in Data Science student at Willamette University
 * I completed my undergraduate studies in Sociology and Data Science, while minoring in Public Health
 * I play rugby and watch *a lot* of sports in my free time; I also enjoy photography, drawing, painting, and other creative pursuits
@@ -17,9 +17,23 @@ This is me staring directly into the sunset in Forks, WA.
 
 To learn more about some of the projects I've worked on, you can scroll down or jump to what you want to explore:
 
+* [Graduate Projects](#graduate-projects)
 * [Environmental Health Hazards and Threats](#environment-health-hazards-and-threats-ehhts)
 * [Racial differences in *FIFA* Stats](#racial-differences-in-fifa-stats)
 * [Fall Data Challenge 2024](#fall-data-challenge-2024)
+
+***
+
+## Graduate Projects
+
+All of the classes I've taken at the graduate level have culminated in a project focusing on the topic of the class. All are linked below in chronological order, along with a summary of the class and major project findings:
+
+* **Data Ethics:** for this discussion- and writing-based class about the ethical considerations of data science, I contributed to a [group paper about data governance strategies and dilemmas in public health and Indigenous use-cases](https://docs.google.com/document/d/1NPv6ti2NrnaoWvY_HyKukt3pLxtsneZbefKcsdJ50FQ/edit?usp=sharing). My section of the paper (starting on page 17) focuses on the qualities of data that make them difficult to govern and outlines how a commons framework could address these qualities while benefitting those who data are collected about.
+* **Python for Data Science:** this class focused on the application of data cleaning and analysis tools in Python, with particular attention paid to pandas, NumPy, and seaborn. My final project (completed with a partner) looked into how [healthcare spending in Oregon](https://docs.google.com/document/d/1yMBY5LJyM52fv01dBceh6UXb3JoeckoBLo_ak1w6LmU/edit?usp=sharing) compares with that in the rest of the country; we found that Oregon's spending in relation to other states varied wildly, with OR spending significantly more than average in some categories (e.g. dental care) and much less than average in others, like prescription drugs. This project emphasized the importance of context and specificity when analyzing large-scale data, as well as challenging us to think of new ways to display a whole lot of data at once.
+* **Data Engineering:** after a semester of learning about SQL and data engineering principles, I worked with a group to combine and analyze data about SNAP participation rates, SNAP retailers, and migration at the county level in the US. We [found](https://docs.google.com/document/d/1jN6vYPGy-e2im1nQGZ3tHA1PQGIKy6u6XyY8ubcgcHM/edit?usp=sharing) that when normalized according to a county's population, none of these factors were particularly correlated with each other, suggesting that the presence of SNAP retailers is not necessarily related to the actual poverty rate in a given area. Further, we found a significant divide between counties based on rurality, with rural counties generally having more outmigration and a higher proportion of their populations utilizing SNAP.
+* **Machine Learning:** alongside several groupmates I examined [how machine learning performs on real-world data collected by OSHA](https://github.com/eskerani/Grad-projects/blob/main/machine_learning_project%20_final.ipynb). We compared several of the methods we had learned about in class (K-Nearest Neighbors, Support Vector Machines, and Random Forests) to predict whether workplace injuries resulted in hospitalization, and compared model performances using both categorical and text data about injuries. Interestingly, we found that predictions made using narratives about injuries performed almost as well (if not better, in one case) as OSHA-provided categorical variables, confirming that these narratives are an important source of information about injuries.
+* **Data Visualization:** completed entirely in R, this class focused on applying principles of accessibility and design to data visualizations. My final project evaluated equity in college athletics through [four interactive visualizations](https://rpubs.com/eskerani/1422641). These visualizations exposed several of the areas where the NCAA is lagging behind in gender equality (namely scholarship allocation, coaches' salaries, and investment in programs). 
+* **Capstone:** this project is currently ongoing as of writing! For my final MS project, I'm working solo to analyze the predictive power of several social factors in relation to national incarceration rates, in order to answer the question of whether crime rates or factors like spending on police are better predictors of incarceration rates. In order to answer this question, I've had to combine elements of data engineering, machine learning, visualization, and ethics; the work-in-progress repo can be found [here](https://github.com/eskerani/prison-predictor-capstone). 
 
 ***
 
