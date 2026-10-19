@@ -3,8 +3,8 @@
 Welcome to my profile. My name is Emery Kerani - here are some fast facts about me!
 
 * I use he/they pronouns
-* I'm fluent in both R, Python, and SQL
-* I'm currently a Master's in Data Science student at Willamette University
+* I'm fluent in R, Python, and SQL
+* I recently graduated with a Master's in Data Science student from Willamette University
 * I completed my undergraduate studies in Sociology and Data Science, while minoring in Public Health
 * I play rugby and watch *a lot* of sports in my free time; I also enjoy photography, drawing, painting, and other creative pursuits
 
